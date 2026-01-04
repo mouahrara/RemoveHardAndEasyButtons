@@ -1,0 +1,11 @@
+{
+	"package": "1236436346",
+	"name": "Remove Hard And Easy Buttons",
+	"mod": 1767654000,
+	"disabled": false,
+	"update_enabled": true,
+	"branch_index": 0,
+	"min_point_version": 241100,
+	"max_point_version": 250902,
+	"conflicts": []
+}
